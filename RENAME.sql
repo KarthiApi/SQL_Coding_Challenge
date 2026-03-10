@@ -1,0 +1,1 @@
+RENAME TABLE patients TO Patient_Info;
