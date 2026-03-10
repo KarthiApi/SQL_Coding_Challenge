@@ -1,0 +1,4 @@
+USE OnlineBookstore;
+ALTER TABLE Books
+ADD COLUMN ISBN  VARCHAR(20) UNIQUE;
+
